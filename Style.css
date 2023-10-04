@@ -1,0 +1,85 @@
+* {
+  font-family: Graphik;
+}
+
+a{
+  text-decoration: none;
+  color: inherit;
+}
+
+body {
+  background-color: #FFFFFF;
+}
+
+header {
+  background-image: url(img/header.png);
+  display: flex;
+  justify-content: space-between;
+  width: 1775.77px;
+  height: 930px;
+  top: -3px;
+  left: 1.23px;
+  
+
+}
+
+#header {
+  width: 1210px;
+  height: 156px;
+  border-radius: 34px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 282.5px;
+  font-size: 15px;
+}
+
+.header-main {
+  list-style: none;
+  display: flex;
+  padding: 0;
+}
+
+.header-link {
+  margin-right: 20px;
+  color: #FFFFFF;
+}
+
+.figma
+ {
+  display: block;
+  position: relative;
+  top: 0;
+  right: 0;
+}
+
+.social-icon {
+  width: 32.02px;
+  height: 32.02px;
+  margin-right: 10px;
+}
+
+h1 {
+  color: #FFFFFF;
+  font-size: 74px;
+  line-height: 84px;
+  
+}
+
+.header-block {
+
+width: 1440px;
+height: 885px;
+padding: 80px 0 80px 0;
+gap: 40px;
+
+
+}
+
+.button{
+width: 236px;
+height: 52px;
+border-radius: 36px;
+border: none;
+padding: 0
+}

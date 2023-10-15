@@ -1,0 +1,45 @@
+* {
+    font-family: Graphik;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  :root {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    background-color: #FFFFFF;
+    position: relative;
+  }
+
+  img {
+    display: block;
+    /* width: 100%; */
+    
+}
+
+.container {
+    display: block;
+    max-width: 100%;
+    margin: auto;
+}
+
+/* @media (min-width: 768px) {
+    .container {
+        padding: 0 32px;
+    }
+}
+
+@media (min-width: 992px) {
+    .container {
+        padding: 0 40px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .container {
+        padding: 0 15px;
+    }
+} */
